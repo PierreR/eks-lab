@@ -1,3 +1,5 @@
 .terraform
 *.tfstate
 *.backup
+kubeconfig_*
+config-map-aws-auth_lab.yaml
